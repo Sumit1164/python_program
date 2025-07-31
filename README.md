@@ -23,7 +23,7 @@ Make sure you have Python installed on your machine. This repo is compatible wit
 
 Check your Python version:
 
-python --version
+ - "python --version"
 
 ## 🤝 Contributing
 Pull requests are welcome! If you have improvements or new project ideas, feel free to fork the repo and submit a PR.
