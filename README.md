@@ -26,3 +26,22 @@ Check your Python version:
 ```bash
 python --version
 
+🤝 Contributing
+Pull requests are welcome! If you have improvements or new project ideas, feel free to fork the repo and submit a PR.
+
+1. Fork the repository
+
+2. Create your feature branch (git checkout -b feature-name)
+
+3. Commit your changes (git commit -m 'Add feature')
+
+4. Push to the branch (git push origin feature-name)
+
+5. Open a pull request
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙋‍♂️ Questions?
+Feel free to open an issue if you find a bug or have a suggestion.
+
