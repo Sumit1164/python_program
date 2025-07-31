@@ -23,7 +23,6 @@ Make sure you have Python installed on your machine. This repo is compatible wit
 
 Check your Python version:
 
-```bash
 python --version
 
 ## 🤝 Contributing
