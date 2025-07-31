@@ -26,7 +26,7 @@ Check your Python version:
 ```bash
 python --version
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you have improvements or new project ideas, feel free to fork the repo and submit a PR.
 
 1. Fork the repository
@@ -39,9 +39,9 @@ Pull requests are welcome! If you have improvements or new project ideas, feel f
 
 5. Open a pull request
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
-🙋‍♂️ Questions?
+## 🙋‍♂️ Questions?
 Feel free to open an issue if you find a bug or have a suggestion.
 
